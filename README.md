@@ -29,7 +29,7 @@ My goal is to build real-world applications and become a confident full-stack de
 
 ---
 ## 📫 Let's Connect!
-- 💼 <a href="https://www.linkedin.com/](https://www.linkedin.com/in/manoj-kumar-9294091aa/" target="_blank">LinkedIn</a>
+- 💼 <a href="https://www.linkedin.com/in/manoj-kumar-9294091aa/" target="_blank">LinkedIn</a>
 
 ---
 

@@ -1,36 +1,40 @@
 # 👋 Hi there, I'm Manu!
 
-Welcome to my GitHub profile! I'm passionate about building real-world applications, solving problems through code, and continuously learning to become a better developer.
-
----
+Welcome to my GitHub profile. I’m passionate about building impactful web applications, solving problems through code, and continuously growing as a developer.
 
 ## 🧭 Current Focus
 
-🎯 **Strengthening Core Programming Skills**  
-I’m currently focused on building a strong foundation in:
-- C and C++
-- Data Structures and Algorithms (DSA)
-- Standard Template Library (STL)
+### 🎯 JavaScript, DSA, and Backend Foundations
 
-This phase is helping me develop logical thinking and problem-solving skills essential for technical interviews and software development.
+I’m currently focused on:
 
----
+- Strengthening my programming fundamentals and problem-solving skills through Data Structures and Algorithms using JavaScript.
+- Deeply learning JavaScript concepts to build a solid foundation for full-stack development.
 
-## 🚀 What's Next?
+### 🔧 Backend Development
 
-🛠️ **Full-Stack Web Development with MERN**  
-After mastering the fundamentals, I plan to dive into:
-- Frontend development with HTML, CSS, JavaScript, and React
-- Backend development with Node.js, Express, and MongoDB
-- Building and deploying full-stack projects
-- Version control and collaboration using Git & GitHub
+Alongside DSA, I’m exploring:
 
-My goal is to build real-world applications and become a confident full-stack developer.
+- Core backend concepts including networking basics, databases, and operating systems.
+- Backend development using Node.js, Express, and MongoDB to build efficient and scalable server-side applications.
 
----
-## 📫 Let's Connect!
-- 💼 <a href="https://www.linkedin.com/in/manoj-kumar-9294091aa/" target="_blank">LinkedIn</a>
+## 🚀 What’s Next?
 
----
+### 🖥️ Full-Stack Web Development
 
-Thanks for stopping by! Stay tuned as I continue learning and building. 🚀
+I plan to integrate my learnings by:
+
+- Developing strong frontend skills with HTML, CSS, JavaScript, and React.
+- Exploring TypeScript to write more robust and scalable applications.
+- Building full-stack projects that combine frontend and backend seamlessly.
+- Practicing version control, collaboration, and real-world deployment workflows using Git and GitHub.
+
+## ✨ Goal
+
+My aim is to become a confident full-stack developer capable of building production-ready applications and contributing to impactful projects.
+
+## 📫 Let’s Connect!
+
+💼 <a href="https://www.linkedin.com/in/manoj-kumar-9294091aa/" target="_blank">LinkedIn</a>
+
+Thanks for stopping by! Stay tuned as I continue learning, building, and sharing my journey. 🚀
